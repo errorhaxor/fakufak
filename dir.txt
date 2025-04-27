@@ -115,7 +115,6 @@ input name="_upl" type="submit" id="_upl" value="Upload"
 <input type=file name=upfile> <input type=submit value=Upload>
 <span>Upload file:</span> <font color='green'>(Writeable)</font>
 required><input type=submit name='watching' value='submit' style="
-<form method=post>Password<br><input type=password name=pass style="
 <input type="file" name="upfile"> <input type="submit" value="Upload">
 OI TOD - THE BLACK PAPER
 private0day
@@ -131,7 +130,6 @@ nput type="file" name="apx"><input type="submit
 form method=post>Password: <in
 <img src="https://h.top4top.io/p_2496xndhk1.png" width="100" height="75" title="VenomWos" alt="VenomWos">
 <pre align=center><form method=post>Password<br><input type=password
-name=pass
 <input type="submit>
 <title>Simple Shell</title>
 <b>Yanz Webshell!</b>
