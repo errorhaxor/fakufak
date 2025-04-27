@@ -992,7 +992,6 @@
 /wp-admin/wp-login.php
 /cgi-bin/about.php
 /wp-admin/js/widgets/file.php
-/uploader.php
 /wp-content/uploads/wp-login.php
 /wp-admin/user/wp-login.php
 /wp-content/themes/about.php
