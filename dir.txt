@@ -96,7 +96,6 @@ Black Eagle Team Minishell
 <title> kill_the_net </title>
 Shell Upload
 <center><h2>0x666</h2></center>
-<title>Tiny File Manager</title>
 <input type=submit value="UPload">
 <input type="submit" value="Upload">
 <input type="submit" value="Upload"/>
