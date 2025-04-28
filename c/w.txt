@@ -196,7 +196,6 @@ name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" 
 input type="submit" value="UploadImage" name="submit"
 AlkantarClanX12
 j3mb03dzm4w0tzsh311
-[HOME]
 name="command" placeholder="Command"
 HunterNeel
 WIBUHAX0R1337
