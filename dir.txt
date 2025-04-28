@@ -69,7 +69,6 @@ BDKR28
 0byt3m1n1
 Minishell
 AUTO ROOT
-Black Bot
 1975 Team
 -rw-rw-rw-
 drwxrwxrwx
