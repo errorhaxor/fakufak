@@ -375,7 +375,6 @@ Simple,Responsive & Powerfull
 Current dir:
 [ ! ] Cilent Shell Backdor [ ! ]
 Simple File Manage Design
-drwxr
 X-Sec Shell
 C0d3d By Dr.D3m0
 One Hat Cyber Team
