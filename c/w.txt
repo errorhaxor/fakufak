@@ -440,7 +440,6 @@ Faizzz-Chin ShellXploit
 <input type="file" name="fileToUpload" id="fileToUpload">
 <title>Leaf PHPMailer</title>
 input type="submit" value=">>"
-<input type=submit name='watching'
 input type="submit" value="Upload Image" name="submit"
 Â© BDKR28
 Â© Overthinker1877
