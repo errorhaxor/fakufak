@@ -302,7 +302,6 @@ input type="file" id="inputfile"
 <input type="file"id="inputfile"name="inputfile">
 <input name='postpass' type='password'
 <input name="_" type="submit" value="Upload"></form>
-name="apx"
 <input type=password name=pass><input type=submit value='>>'
 input type="file" name="apx"><input type="submit"
 Ã‚Â©left; PDFshell to PHP-2023
