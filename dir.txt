@@ -41,7 +41,6 @@ WHY MINI SHELL
 IndoXploit
 input type='submit' value='upload shell'
 FoxWSO v1.2
-FilesMan
 <span>Upload file:
 <form method="POST" enctype="multipart/form-data"> <input type="file" name="file"> <input type="submit" value="up_it"> </form>
 MARIJuANA
@@ -275,7 +274,6 @@ M1n1 Shira0ka File Manager
 CasperSecurity SHELL
 ons79 File Manager Version 1.0, Coded By Anons79
 <title>Mister Spy</title>
-FilesMAn
 FilesMan:
 FilesTools
 PRIV8 WEB SHELL
