@@ -161,7 +161,6 @@ Uploader by BIBIL
 <h1>File manager</h1>
 Get S.H.E.L.L.en v1.0 | BY ..
 TINYSHELL
-<title>Uploader
 C0mmand
 name="btul"><button>Gaskan<
 b374k2.8
