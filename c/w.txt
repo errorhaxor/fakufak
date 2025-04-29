@@ -287,7 +287,6 @@ UnknownSec
 Ã‚Â© BlackDragon 2023
 - FoxWSO 
 <title>MoD Shell</title>
-input type="submit" value=">>">
 <input type=submit value="Up">
 <span>Upload file:</span> <font color='green'>(Writeable)</font>"
 input type="file" id="inputfile"
