@@ -146,7 +146,6 @@ LEGION EXPLOIT
 Uploader Sp3Ctra
 <title>.::.</title>
 <button>Gaskan</button>
-<input type="submit" value="ok">
 <title>Upload files...</title>
 Simple File Manage Design by
 <div class="corner text-secondary">shell bypass 403</div>
