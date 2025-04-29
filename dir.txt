@@ -132,7 +132,6 @@ form method=post>Password: <in
 <b>Yanz Webshell!</b>
 Bypass Sh3ll
 >File Upload :<
-Tiny File Manager
 skullxploit</p>
 YANZ!
 <title>Elep</title>
