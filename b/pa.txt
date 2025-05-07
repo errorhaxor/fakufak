@@ -1286,7 +1286,6 @@
 /pws.php
 /wp-content/languages/confno7.php
 /archives.php
-/wp-includes/js/tinymce/wp-tinymce.php
 /wp-includes/js/tinymce/plugins/compat3x/content.php
 /wp-includes/images/media/about.php
 /wp-content/themes/inputs.php
