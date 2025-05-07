@@ -177,7 +177,6 @@ ShellBypass403GE-C666C
 YanzWebshell!
 Negat1veShell
 input type="submit" name="submit" value=">>"
-BlackDragon
 type="submit" id="_upl" value="Upload
 <Uplfile</a></td>
 UploadFile:<input type="file" name="file
