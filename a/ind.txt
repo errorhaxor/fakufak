@@ -7,7 +7,6 @@
 /site/
 /js/
 /wp-includes/js/tinymce/plugins/compat3x/css/
-/wp-includes/js/tinymce/
 /wp-includes/Text/
 /wp-includes/rest-api/
 /wp-includes/js/
