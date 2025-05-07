@@ -969,7 +969,6 @@
 /wp-content/uploads/index.php
 /test.php
 /files/home.php
-/wp-content/plugins/google-seo-rank/README.txt
 /as.php
 /defaults.php
 /wp-admin/css/colors/index.php
