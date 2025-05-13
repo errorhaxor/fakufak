@@ -134,7 +134,6 @@
 /wp-content/plugins/wp-file-manager/lib/php/
 /wp-content/plugins/ubh/
 /wp-content/plugins/elementor/
-/wp-content/plugins/ioptimizations/
 /wp-content/themes/twentytwenty/
 /images/profiles/
 /images/banner/
