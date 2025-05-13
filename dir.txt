@@ -364,7 +364,6 @@ p0wny@shell:~#
 Graybyt3 Was Here
 #wp_config_error#
 Powered By Indonesian Darknet
-#No_Identity
 [+] MINI SH3LL BYPASS [+]
 ineSec Team Shell
 form method="post" enctype="multipart/form-data"><input type="file" name="__"><input name="_" type="submit" value="Upload"
