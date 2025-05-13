@@ -1411,7 +1411,6 @@
 /wp-content/plugins/simple-custom-css/lndex.php
 /wp-content/plugins/wp-extended/index.php
 /wp-content/plugins/wp-default/sh/pas.php
-
 /mah/function.php
 /wp-content/themes/deeto/login.php
 /h.php
