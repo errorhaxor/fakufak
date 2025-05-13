@@ -230,7 +230,6 @@ L I E R SHELL
 Spamworldpro Mini
 <input name=\_upl\ type=\submit\ id=\_upl\ value=\Upload\>
 Gel4y Mini
-vulncode
 method= \post\ action= \\> <input type=\input\ name =\f_p\ value= \\/><input type= \submit\ value= \>&gt;\ ]
 TINY SHELL
 <title>#shwty</title>
