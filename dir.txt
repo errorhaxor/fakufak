@@ -270,7 +270,6 @@ FilesTools
 PRIV8 WEB SHELL
 Cwd:
 Server IP:
-Select image to upload:
 F3RGUSO WEBSHEL
 Mr.KaitoX Bypass Shell
 NuLz404
