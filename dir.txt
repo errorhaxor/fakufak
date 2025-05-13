@@ -440,8 +440,5 @@ b374k
 file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)
 Ova-Tools
 OI TOD - THE BLACK PAPERprivate0day
-ULTRA
 Simple File Manage Design by index.php
 <pre align=center><form method=post>Password<br><input type=password name=pass style='background-color:whitesmoke;border:1px solid #FFF;outline:none;'
-Â©TheAlmightyZeus
-ioptimization
