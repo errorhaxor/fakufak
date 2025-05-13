@@ -1135,11 +1135,7 @@
 /libraries/legacy/updates.php
 /libraries/phpmailer/updates.php
 /libraries/vendor/updates.php
-/ss.php
 /_.php
-/modules/mod_simplefileuploadv1.3/elements/Ã‚Â®.php
-/modules/mod_simplefileuploadv1.3/elements/Ã‚Â®.php7
-/wp-content/themes/alera/Ã‚Â®.php
 /wp-content/themes/alera/alera/#U00ae.php
 /lol.php
 /resetpw.php
