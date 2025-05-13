@@ -193,7 +193,6 @@ input name="_upl" type="submit" id="_upl" value="Upload
 <p align="center"><center><font style="font-size:13px" color="#008000" face="Trebuchet MS">
 &mode=upload'>Upl file</a>
 PHP File Manager
-class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
 input type="submit" name="submit" value="  >>"
 <title>b0x sh3ll;</title>
 <input name="_upl" type="submit" id="_upl" value="Upload">
