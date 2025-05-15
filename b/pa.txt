@@ -4,6 +4,7 @@
 /alfanew.php7
 /wp-content/plugins/WordPressCore/include.php
 /mah/function.php
+/wp-comments-post.php
 /about.php
 /mah.php
 /randkeyword.PhP7
