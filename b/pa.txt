@@ -173,9 +173,6 @@
 /cjfuns.php
 /classsmtps.php
 /classfuns.php
-/comfunctions.php
-/comdofuns.php
-/connects.php
 /copypaths.php
 /delpaths.php
 /doiconvs.php
@@ -689,7 +686,6 @@
 /wp-includes/random_compat/random_bytes_cyclone.php
 /wp-content/alfa.php
 /uploads/upload.php
-/sts.php
 /wp-content/themes/seotheme/mar.php
 /css/lib.php
 /wp-content/wso.php
@@ -1378,15 +1374,12 @@
 /wp-content/langar.php
 /rc.php7
 /solid.php
-/bl.php
 /wp-includes/Requests/Text/lock360.php
 /b378.php
 /bossu.php
 /kurumin.php
 /wordpressdb.php
-/hayo.php
 /ioxi-rex.php
-/7yn.php
 /wp-includes/sodium_compat/src/Core/Curve25519-items.php
 /wp-content/themes/twentytwentyfour/content-index.php
 /wp-content/themes/hello-elementor/content-index.php/wp-add.php?a=c
