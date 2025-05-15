@@ -1,14 +1,34 @@
 /themes.php
+/Simple.php
+/chosen.php
+/alfanew.php7
+/wp-content/plugins/WordPressCore/include.php
+/mah/function.php
 /about.php
+/mah.php
+/randkeyword.PhP7
+/file.php
+/alfanew.php
+/wp-admin/network/admin.php
+/dropdown.php
 /wp-admin/css/colors/blue/CasperExV1.php
+/index/function.php
 /wp-content/index.php
 /byp.php
+/alfa-rex.php7
+about/function.php
+wp-includes/widgets/include.php
 /edit-comments.php
 /smm.php
 /termps.php
 /wp.php
+/hehehehe.php
+/wp-admin/js/index.php
 /1.php
 /classwithtostring.php
+/wp-content/themes/include.php
+/randkeyword.php
+/wp-content/plugins/mmk/alfanew.php
 /admin.php
 /mini.php
 /user.php
@@ -21,6 +41,7 @@
 /lufix.php
 /plugins.php
 /small.php
+/wp-content/indeX.php
 /init.php
 /doc.php
 /shell.php
@@ -105,10 +126,6 @@
 /wp-content/uploads/xl2023.php
 /wp-admin/includes/themes.php
 /wp-content/11.php
-/woh.php
-/sgd.php
-/file.php
-/Simple.php
 /wp-blog-header.php
 /wp-conflg.php
 /class.api.php
@@ -137,7 +154,6 @@
 /godsend.php
 /wp-scripts.php
 /wp-editor.php
-/mah.php
 /jp.php
 /ext.php
 /a.php
@@ -230,7 +246,6 @@
 /xt.php
 /b0.php
 /filter.php
-/wp-content/plugins/WordPressCore/include.php
 /wp-content/themes/signify/firkon.php
 /wp-content/themes/mero-megazines/ws.php
 /wp-admin/css/colors/coffee/index.php
@@ -238,7 +253,6 @@
 /mfi.php
 /sad.php
 /new.php
-/alfanew.php
 /upgrade.php
 /crack_self_restore.php
 /checkbex.php
@@ -269,7 +283,6 @@
 /locale.php
 /power.php
 /above.php
-/chosen.php
 /wp-admin/network/upfile.php
 /wp-content/plugins/fix/up.php
 /4price.php
@@ -299,7 +312,6 @@
 /wp-admin/images/install.php
 /wp-content/plugins/revslider/includes/external/page/index.php
 /alfa-rex.php
-/alfa-rex.php7
 /my1.php
 /wp-admin/network/cloud.php
 /cgi-bin/cloud.php
@@ -336,7 +348,6 @@
 /ajax-actions.php
 /wp-admin/ajax-actions.php
 /wp-admin/maint/maint/ajax-actions.php
-/alfanew.php7
 /adminfuns.php7
 /ebs.php7
 /ws.php7
@@ -404,7 +415,6 @@
 /wp-admin/user/about.php
 /wp-admin/network/index.php
 /wp-admin/images/admin.php
-/wp-admin/network/admin.php
 /wp-admin/images/revision.php
 /cgi-bin/cgi-bin/about.php7
 /wp-admin/maint/moon.php
@@ -419,7 +429,6 @@
 /wp-content/themes/twentyfive/include.php
 /wp-content/include.php
 /wp-content/themes/sketch/404.php
-/wp-content/themes/include.php
 /wp-includes/js/jcrop/about.php
 /filemanager/dialog.php
 /cgi-bin/wp-login.php
@@ -560,7 +569,6 @@
 /images/lock360.php
 /wp-content/uploads/Simple.php
 /shx.php
-/dropdown.php
 /wp-admin/css/admin.php
 /wp-content/alfa.php
 /uploads/upload.php
@@ -642,7 +650,6 @@
 /tinyfilemanager/tinyfilemanager.php
 /wp-content/upgrade/bless.php
 /templates/atomic/templates.php
-/alfanew.PHP7
 /wp-admin/ccx/index.php
 /wp-content/themes/digital-download/new.php
 /wp-content/uploads/wp-content/uploads/code-execution.php
@@ -729,12 +736,9 @@
 /ioxi002.PhP7
 /wp-content/admin.php
 /wp-content/themes/travelscape/json.php
-/wp-admin/js/index.php
 /erin1.PhP7
 /wp-admin/images/Mhbgf.php
-/randkeyword.php
 /wp-content/plugins/dummyyummy/wp-signup.php
-/about/function.php
 /WSO-Enigma.php
 /ioxi22.PhP7
 /wp-content/mode.php
@@ -752,7 +756,6 @@
 /css/index.php
 /leaf.php
 /contact.php
-/randkeyword.PhP7
 /index.php
 /ynz.PhP7
 /ova-tools.php
@@ -792,11 +795,9 @@
 /css/0808.php
 /wp-includes/js/tinymce/plugins/compat3x/css/wp-casper.php
 /class.php
-/index/function.php
 /.qiodetme.php
 /include.php
 /alfa.php
-/alfanew.PhP7
 /wp-content/classwithtostring.php
 /xp.php
 /wp-content/plugins/upspy/con.php
@@ -991,7 +992,6 @@
 /plugins/jquery.filer/uploads/jack2024.p.php
 /wp-content/plugins/wp-config-sample.php
 /ss.php?c=c
-/wp-content/indeX.php
 /wp-includes/js/tinymce/wp-login.php
 /assets/dropdown.php
 /js/file.php
@@ -1097,7 +1097,6 @@
 /wp-content/plugins/phpadmin/acp.php
 /wp-content/plugins/Core-Econ/upH.php
 /wp-content/plugins/wpcall-button/button-image.php
-/hehehehe.php
 /wp-content/themes/twentytwenty/functions.php
 /wp-content/themes/kadence/functions.php
 /wp-content/themes/twentythirteen/functions.php
@@ -1109,7 +1108,6 @@
 /wp-content/plugins/simple-custom-css/lndex.php
 /wp-content/plugins/wp-extended/index.php
 /wp-content/plugins/wp-default/sh/pas.php
-/mah/function.php
 /wp-content/themes/deeto/login.php
 /h.php
 /bugz.php
