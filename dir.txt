@@ -67,7 +67,6 @@ BDKR28
 Minishell
 AUTO ROOT
 1975 Team
--rw-rw-rw-
 drwxrwxrwx
 Mini shell
 CREATE RDP
@@ -244,7 +243,6 @@ DRUNK SHELL
 <title> WSO SHELL
 <title>V4Mp</title>
 value="chmod"
--rw-rw-r--
 File Manger
 Coded by Amin Shokohi
 <title>403WebShell</title>
