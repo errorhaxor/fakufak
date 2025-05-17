@@ -186,7 +186,6 @@ name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" 
 input type="submit" value="UploadImage" name="submit"
 AlkantarClanX12
 j3mb03dzm4w0tzsh311
-name="command" placeholder="Command"
 HunterNeel
 WIBUHAX0R1337
 kill_the_net
@@ -203,7 +202,6 @@ upload=gaskan">Upload File<
 type='submit' value='UPload File' />
 Upload file:
 <input type='password' name='password>
-" name="command" placeholder="Command"
 title>V4Mp</title
 j3mb03dz m4w0tz sh311
 <input type="file" name="apx">
