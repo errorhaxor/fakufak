@@ -771,8 +771,6 @@ wp-includes/widgets/include.php
 /wp-admin/css/colors/index.php
 /wp-content/themes/aahana/json.php
 /mail.php
-/wp-admin/js/privacy-tools.min.php
-/nf_tracking.php
 /admin/upload/css.php
 /cgi-bin/admin.php
 /x/index.php
@@ -792,7 +790,6 @@ wp-includes/widgets/include.php
 /wp-content/tmpls.php
 /wp-admin/images/about.php
 /wp-content/wp-login.php
-/wp-content/plugins/wp-config-sample.php?pas=@1024
 /css/0808.php
 /wp-includes/js/tinymce/plugins/compat3x/css/wp-casper.php
 /class.php
@@ -817,7 +814,6 @@ wp-includes/widgets/include.php
 /wp-admin/css/colors/blue/index.php
 /date.php
 /wp-admin/images/wp-login.php
-/wp-admin/css/colors/coffee/wp-casper.php
 /wp-admin/about.php
 /wp-admin/css/about.php
 /w.php
@@ -828,7 +824,6 @@ wp-includes/widgets/include.php
 /setup-config.php
 /wp-sigunq.php
 /about.php?key=EnigmaCyberSecurity
-/wp-content/themes/cay-van-phong/kevinAtony.php?pass=xeonthread2024
 /wp-admin/autoload_classmap.php
 /wp-admin/css/colors/blue/blkqvmih.php
 /wp-admin/images/dropdown.php
@@ -852,7 +847,6 @@ wp-includes/widgets/include.php
 /wp-content/db-cache.php
 /readme.php
 /f.php
-/wp-content/themes/astra/inc/ki1k.php
 /sidwsi.php
 /Images/about.php
 /gely.php
@@ -891,13 +885,11 @@ wp-includes/widgets/include.php
 /libraries/legacy/updates.php
 /libraries/phpmailer/updates.php
 /libraries/vendor/updates.php
-/_.php
 /wp-content/themes/alera/alera/#U00ae.php
 /lol.php
 /resetpw.php
 /wp-content/plugins/awesome-coming-soon/come.php
 /wp-content/plugins/wp-conflg.php
-/berlin.php
 /uploads/20230303064717.php
 /alfa3.php
 /wp-content/plugins/css-ready-sel/file.php
@@ -921,7 +913,6 @@ wp-includes/widgets/include.php
 /wp-includes/js/jcrop/Jcrop.php
 /options-privacy.php
 /wp-content/plugins/TOPXOH/wDR.php
-/wp-admin/X.php?action=768776e296b6f286f26796e2a72607e2972647
 /about.php?525
 /b374k.php
 /images/offline.php
@@ -932,7 +923,6 @@ wp-includes/widgets/include.php
 /wp-content/plugins/ubh/index.php
 /wp-content/themes/evita/about.php
 /wp-content/plugins/autoplugin/vendor/xMAN.php
-/amaxx.php
 /thesmartestx.php
 /bypass403.php
 /wp-content/plugins/html404/cry.php
@@ -941,7 +931,7 @@ wp-includes/widgets/include.php
 /db5yjt/cache/wp-login.php
 /templates/beez3/index.php
 /assets/library.php
-/wp-commentin.php?pass=f0aab4595a024d626315fb786dce8282
+/wp-commentin.php
 /mri.php
 /images/v1.php
 /wp-content/uploads/duck.php
@@ -984,15 +974,12 @@ wp-includes/widgets/include.php
 /wp-content/ave.php
 /wp-content/codeboy1877_up.php
 /406.php
-/x.php?action=768776e296b6f286f26796e2a72607e2972647
+/x.php
 /wp-content/languages/wp-login.php
 /wp-content/uploads/inputs.php
-/wp-content/plugins/xichang/x.php?xi
 /wp-content/shell.php
 /wp-content/uploads/help.php
-/plugins/jquery.filer/uploads/jack2024.p.php
 /wp-content/plugins/wp-config-sample.php
-/ss.php?c=c
 /wp-includes/js/tinymce/wp-login.php
 /assets/dropdown.php
 /js/file.php
@@ -1017,18 +1004,13 @@ wp-includes/widgets/include.php
 /wp-content/lx.php
 /wp-content/cache/themes.php
 /wp-content/plugins/inputs.php
-/butju.php
 /wp-content/plugins/hello.php
 /wp-content/plugins/wp-config.php
-/wp-content/uploads/wp-atom.php
 /images/Xleet.php
 /wp-content/xxl.php
 /wp-admin/xxl.php
 /wp-content/class.api.php
 /wp-admin/class.api.php
-/delete4.php
-/delete5.php
-/wp-hoard.php
 /class-snoopye_wso.php
 /wp-admin/css/atomlib.php
 /wp-content/css.php
@@ -1051,7 +1033,6 @@ wp-includes/widgets/include.php
 /wp-includes/ID3/dropdown.php
 /wp-includes/bookmarks.php
 /wp-includes/FFzn0.php
-/yaudah.php
 /wp-content/upgrade/shell.php
 /wp-content/themes/twentytwenty/content.php
 /wp-admin/css/colors/midnight/wp-login.php
@@ -1066,7 +1047,6 @@ wp-includes/widgets/include.php
 /wp-includes/Requests/Text/index.php
 /wp-includes/Requests/Text/admin.php
 /cgi-bin/my1.php
-/wp-admin/images/my1.php
 /class_api.php
 /about.php7
 /ebs.php
@@ -1093,7 +1073,6 @@ wp-includes/widgets/include.php
 /ioxi-rex.php
 /wp-includes/sodium_compat/src/Core/Curve25519-items.php
 /wp-content/themes/twentytwentyfour/content-index.php
-/wp-content/themes/hello-elementor/content-index.php/wp-add.php?a=c
 /wp-content/plugins/phpad/acp.php
 /wp-content/plugins/phpadmin/acp.php
 /wp-content/plugins/Core-Econ/upH.php
