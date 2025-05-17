@@ -755,7 +755,6 @@ wp-includes/widgets/include.php
 /crop.php
 /wp-content/languages/index.php
 /css/index.php
-/leaf.php
 /contact.php
 /index.php
 /ynz.PhP7
