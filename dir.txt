@@ -370,7 +370,6 @@ input type="submit" value="Upload" name="gecko-up-submit"
 onclick="cmd.value=''; cmd.focus(); return false;">Clear cmd<
 input type="text" size="4" id="fetch_port" name="fetch_port" value="80"
 input type="text" size="40" id="fetch_path" name="fetch_path" value=""
-input type="file" name="fileToUpload" id="fileToUpload"
 input type=text name=path><input type="file" name="files"><input type=submit value="Up"
 Upload:</b> <input type="file" id="upload" name="upload"
 input type="file" name="gecko-file" id=""><input type="submit" class="upload-submit" name="upload-submit" value="Upload"
@@ -422,9 +421,7 @@ input type="file" name="__"><input name="_" type="submit" value="Upload"
 enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload
 Public Shell Version 2.0
 Faizzz-Chin ShellXploit
-<input type="file" name="fileToUpload" id="fileToUpload">
 input type="submit" value=">>"
-input type="submit" value="Upload Image" name="submit"
 File Manager
 b374k
 Â© BDKR28
