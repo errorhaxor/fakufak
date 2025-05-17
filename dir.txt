@@ -423,7 +423,6 @@ enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" n
 Public Shell Version 2.0
 Faizzz-Chin ShellXploit
 <input type="file" name="fileToUpload" id="fileToUpload">
-<title>Leaf PHPMailer</title>
 input type="submit" value=">>"
 input type="submit" value="Upload Image" name="submit"
 File Manager
