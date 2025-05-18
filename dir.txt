@@ -418,8 +418,6 @@ input type="file" name="__"><input name="_" type="submit" value="Upload"
 enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload
 Public Shell Version 2.0
 Faizzz-Chin ShellXploit
-input type="submit" value=">>"
-File Manager
 b374k
 Â© BDKR28
 Â© Overthinker1877
