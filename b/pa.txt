@@ -740,7 +740,6 @@ wp-includes/widgets/include.php
 /ioxi22.PhP7
 /wp-content/mode.php
 /wp-content/plugins/pwnd/pwnd.php
-/index.php?3x=3x
 /bypass.php
 /phpinfo.php
 /tiny.php
@@ -752,7 +751,6 @@ wp-includes/widgets/include.php
 /wp-content/languages/index.php
 /css/index.php
 /contact.php
-/index.php
 /ynz.PhP7
 /ova-tools.php
 /moon.php
@@ -1130,7 +1128,6 @@ wp-includes/widgets/include.php
 /wp-log1n.php
 /alfa.php?solevisible
 /randkeyword.PhP7
-/alfanew.php7
 /alfanew.php
 /wp-content/themes/pridmag/db.php?u
 /wp-content/themes/seotheme/db.php
