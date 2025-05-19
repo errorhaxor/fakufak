@@ -1,15 +1,11 @@
-/themes.php
 /Simple.php
 /chosen.php
-/alfanew.php7
 /wp-content/plugins/WordPressCore/include.php
 /mah/function.php
 /wp-comments-post.php
 /about.php
 /mah.php
-/randkeyword.PhP7
 /file.php
-/alfanew.php
 /wp-admin/network/admin.php
 /dropdown.php
 /wp-admin/css/colors/blue/CasperExV1.php
@@ -1133,6 +1129,9 @@ wp-includes/widgets/include.php
 /templates/beez/index.php
 /wp-log1n.php
 /alfa.php?solevisible
+/randkeyword.PhP7
+/alfanew.php7
+/alfanew.php
 /wp-content/themes/pridmag/db.php?u
 /wp-content/themes/seotheme/db.php
 /wp-content/ThreeFox_Exploit/index.php?threefox
