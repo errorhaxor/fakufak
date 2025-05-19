@@ -1,66 +1,45 @@
 <input type="submit" value="ddok"/>
+<title>webshell</title>
 <input type="submit" name="upload_file" value="Upload File">
 [ HOME SHELL ]
 aDriv4
-<title>webshell</title>
 403Webshell
 <h1>[ Shin Bypassed ]</h1>
 <title>WIBUHAX0R1337 - ShelL</title>
-<title>QuÃ¡ÂºÂ£n lÃƒÂ½ File</title>
 <title>Uploader x7root-Tools</title>
 3KB TINY SHEL
 @x7seller
-<title>QuÃƒÂ¡Ã‚ÂºÃ‚Â£n lÃƒÆ’Ã‚Â½ File</title>
-Hacked By AnonymousFox
 <title> LIT COUSRE TEAM </title>
 Mr.KaitoX
 Bypass Shell
 FierzaXploit
 Mini Shell
-value="goodit"/>
 TrenggalekTeam
-<title>000</title>
 input type="text" readonly="1" id="upload_visible"
 value='Nyanpasu!!!'
 TheAlmightyZeus
-Jijle3
 Tryag File Manager
 ubhteam
 #p@@#
-WSO 4.2.5
 CHips L Pro sangad
 Vuln!! patch it Now!
 Mister Spy
 //0x5a455553.github.io/MARIJUANA/icon.png
 B Ge Team 
 xichang1
-Mini Shell By Black_Shadow
-Yanz Webshell!
-WSO 2.5
-WHY MINI SHELL
 IndoXploit
 input type='submit' value='upload shell'
-FoxWSO v1.2
 <span>Upload file:
 <form method="POST" enctype="multipart/form-data"> <input type="file" name="file"> <input type="submit" value="up_it"> </form>
-MARIJuANA
-indoxploit
 Negat1ve Shell
 Shell Bypass 403 GE-C666C
 ALFA TEaM Shell
 type="submit" id="_upl" value="Upload">
-Upload File : <input
+Upload File :
 anonymousfox
 name="uploader" id="uploader">
 Uname:
-<input name=postpass type=password
-input type=password name=pass><input type=submit value='>>'>
->Password<br><input
-<pre align=center><form method=post>Password<br><input type=password name=pass
-<input type=password name=pass 
-<input type="submit" name='watching'
 type="file"/><input type="submit"
-MINIShel
 dead1975
 BDKR28
 0byt3m1n1
@@ -68,36 +47,26 @@ Minishell
 AUTO ROOT
 1975 Team
 drwxrwxrwx
-Mini shell
 CREATE RDP
 c99madshell
 Hunter Neel
 deadcode1975
 iTSecTeam.com
 {Ninja-Shell}
-Red Mini Shell
-Gel4y Mini Shell
-\u00a9TheAlmightyZeus
 MINI MINI MANI MO
-\u00a9 Overthinker1877
 UnknownSec Bypass
-\u00a9 BlackDragon 2023
+BlackDragon 2023
 Mr. X Privet Shell
 DarkClownSecurity v.
 [ phpinfo ] Datetime:
 cPanel Reset Password
 MoD Shell
 SHELL MINI RANSOMWARE V5
-Black Eagle Team Minishell
-\u00a9left; PDFshell to PHP-2023
 <title> kill_the_net </title>
 Shell Upload
 <center><h2>0x666</h2></center>
 <input type=submit value="UPload">
-<input type="submit" value="Upload">
-<input type="submit" value="Upload"/>
 https://github.com/Den1xxx/Filemanager
-<title>Shell Bypass 403 GE-C666C</title>
 <center><h2>Gentoo @ MyHack</h2></center>
 http://solevisible.com/icons/menu/view.svg
 N3tShell v. LatinHackTeam Gatos putos team
@@ -107,14 +76,12 @@ Sindbad~EG
 <input type="file" name="file" size="50"><input name=
 input name="_upl" type="submit" id="_upl" value="Upload"
 <input type=file name=upfile> <input type=submit value=Upload>
-<span>Upload file:</span> <font color='green'>(Writeable)</font>
 required><input type=submit name='watching' value='submit' style="
+<form method=post>Password<br><input type=password name=pass style="
 <input type="file" name="upfile"> <input type="submit" value="Upload">
 OI TOD - THE BLACK PAPER
 private0day
 input type="file" name="apx"
-UCEN HAXOR Ã¢â„¢Â¡ TIARA CNTIK
-Cod3d By AnonymousFox
 Doc Root:
 #I LOVE YOU EVERDAY#
 Simple Shell
@@ -123,31 +90,24 @@ MSQ_403
 nput type="file" name="apx"><input type="submit
 form method=post>Password: <in
 <img src="https://h.top4top.io/p_2496xndhk1.png" width="100" height="75" title="VenomWos" alt="VenomWos">
-<pre align=center><form method=post>Password<br><input type=password
 <input type="submit>
 <title>Simple Shell</title>
 <b>Yanz Webshell!</b>
 Bypass Sh3ll
 >File Upload :<
 skullxploit</p>
-YANZ!
 <title>Elep</title>
 name='userfile'>
-<input type="submit" name="submit" value="  >>">
-403WebShell
-<title>DRUNK
+<input type="submit" name="submit" value="
 RandsX aka T1kus_g0t
 <input name="_upl"id="_upl
 LEGION EXPLOIT
 Uploader Sp3Ctra
-<title>.::.</title>
 <button>Gaskan</button>
 <title>Upload files...</title>
 Simple File Manage Design by
 <div class="corner text-secondary">shell bypass 403</div>
-<title>Ã¨Â¯Â·Ã¥â€¹Â¿Ã¤Â½Â¿Ã§â€Â¨Ã©ÂÅ¾Ã¦Â³â€¢Ã§â€Â¨Ã©â‚¬â€</title>
 Mr.Combet Webshell
-<h2>Your IP :
 Ghost Exploiter
 Uploader by BIBIL
 Get S.H.E.L.L.en v1.0 | BY ..
@@ -159,9 +119,7 @@ b374k2.8
 <h1>{INDOSEC}</h1>
 YanzWebshell
 <title>SimpleShell</title>
-AnonymousFox
-<title>WIBUHAX0R1337-ShelL</title>
-<title>Qu?nlÃƒÂ½File</title>
+<title>7-ShelL</title>
 ShinBypassed
 SimpleShell
 UploadFile:<input
@@ -177,22 +135,15 @@ type="submit" id="_upl" value="Upload
 UploadFile:<input type="file" name="file
 Mr.CombetWebShell
 x3x3x3x_5h3ll
-/0x5a455553.github.io/MARIJUANA/icon.png
 <title>V4Mp</title
-name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" type="submit" id="_upl" value="Upload"
 input type="submit" value="UploadImage" name="submit"
-AlkantarClanX12
-j3mb03dzm4w0tzsh311
 HunterNeel
-WIBUHAX0R1337
 kill_the_net
-input name="_upl" type="submit" id="_upl" value="Upload
 <input type="file" name="__">
 <p align="center"><center><font style="font-size:13px" color="#008000" face="Trebuchet MS">
-&mode=upload'>Upl file</a>
+&mode=upload'>Upl file</a> 
 input type="submit" name="submit" value="  >>"
 <title>b0x sh3ll;</title>
-<input name="_upl" type="submit" id="_upl" value="Upload">
 %PDF-0-1
 upload=gaskan">Upload File<
 type='submit' value='UPload File' />
@@ -202,10 +153,8 @@ title>V4Mp</title
 j3mb03dz m4w0tz sh311
 <input type="file" name="apx">
 <input type="file" size="20" name="uploads"/>
-WSO 2.6
 [UNAME]
 JEMBOETS
-<title>IndoXploit</title>
 config root man
 Shell Uploader
 walex says Fuck Off Kids:
@@ -226,7 +175,6 @@ Spamworldpro Mini
 Gel4y Mini
 method= \post\ action= \\> <input type=\input\ name =\f_p\ value= \\/><input type= \submit\ value= \>&gt;\ ]
 TINY SHELL
-MARIJUANA
 <title>#shwty</title>
 <small>Copyright Ã‚Â© 2021 - Haxor Clan</small>
 [ Avaa Bypassed ]
@@ -237,52 +185,38 @@ DRUNK SHELL
 <title>KKK</title>
 <title>..:: - WIBUHAXOR1337 - v1- Lutfifakee ::..</title>
 - WIBUHAXOR1337 -
-<title> WSO SHELL
 <title>V4Mp</title>
 value="chmod"
 File Manger
 Coded by Amin Shokohi
-<title>403WebShell</title>
 <title>Green Shell</title>
 <b>Incovers Shell</b
 [FILES MANAGEMENT]
 FX Shell Backdoor
 <title>Mini-FileManager</title>
 OVA-TOOLS SHELL
-WSO 5.1.4
-WSO YANZ ENC BYPASS
-WSOX ENC
-WSO 4.2.6
 WebShellOrb 2.6
 M1n1 Shira0ka 
 CasperSecurity SHELL
 ons79  Version 1.0, Coded By Anons79
-<title>Mister Spy</title>
 FilesMan:
 FilesTools
 PRIV8 WEB SHELL
 Cwd:
 Server IP:
 F3RGUSO WEBSHEL
-Mr.KaitoX Bypass Shell
 NuLz404
 { INDOSEC }
 Mass Deface/Delete
 Ã‚Â© BDKR28
-Ã‚Â© Overthinker1877
 UnknownSec
-Ã‚Â© BlackDragon 2023
-- FoxWSO 
 <title>MoD Shell</title>
 <input type=submit value="Up">
-<span>Upload file:</span> <font color='green'>(Writeable)</font>"
 input type="file" id="inputfile"
 <input type="file"id="inputfile"name="inputfile">
 <input name='postpass' type='password'
 <input name="_" type="submit" value="Upload"></form>
-<input type=password name=pass><input type=submit value='>>'
 input type="file" name="apx"><input type="submit"
-Ã‚Â©left; PDFshell to PHP-2023
 [ Shell Upload 403 Eo9Ti ]~~
 <H1><center>Sindbad~EG </center></H1>
 https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json
@@ -290,7 +224,6 @@ https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json
 3Turr ~ CPanel Cracker
 3xBeast symlink & wp pass changer
 Author Sole Sad & Invisible
-Auto Root Exploit
 Auto WHM Cracker
 C99 Modified By Psych0
 Con7ext Shell
@@ -318,8 +251,6 @@ Upload File Berhasil Cok !
 Upload File Gagal Cok ! Mamposh Lo !
 WHMCS KILLER V3 CODED BY RAB3OUN
 WHMCS Killer v3 Decoded By N!nj@
-Wso1 SHELL
-WSO 2.1.5
 Xsam_Xadoo_BoT
 ZETHA WEB SHELL
 Sh3ll BY Anons79
@@ -360,69 +291,46 @@ Graybyt3 Was Here
 Powered By Indonesian Darknet
 [+] MINI SH3LL BYPASS [+]
 ineSec Team Shell
-form method="post" enctype="multipart/form-data"><input type="file" name="__"><input name="_" type="submit" value="Upload"
-input type="submit" value="Upload" name="gecko-up-submit"
-onclick="cmd.value=''; cmd.focus(); return false;">Clear cmd<
-input type="text" size="4" id="fetch_port" name="fetch_port" value="80"
-input type="text" size="40" id="fetch_path" name="fetch_path" value=""
-input type=text name=path><input type="file" name="files"><input type=submit value="Up"
-Upload:</b> <input type="file" id="upload" name="upload"
-input type="file" name="gecko-file" id=""><input type="submit" class="upload-submit" name="upload-submit" value="Upload"
-pre align=center><form method=post>Password: <input type=password name=pass><input type=submit value=
-form method=POST enctype="multipart/form-data" action=""><input type=text name=path><input type="file" name="files"><input type=submit value="Up"
-%PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"
 input type='submit' name='upload' value='upload'
-input type="submit" name="submit" value="Upload"
 input type="file" name="upload"
-input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload"
 == Google Rank ==
 <b>EnigmaCyberSecurity</b>
 type="file" size="20" name="file_jpg"
 X4Exploit
 Mini PHP Upload By Haxgeno7
-<title>{Ninja-Shell}</title>
 https://github.com/fluidicon.png
-Ã‚Â©TheAlmightyZeus
-//e.top4top.io/p_26973oc9i1.png
-BlackDragon 2024
 [ NAME ]
 Asikk-&wkwkwkwkw
-<title>MARIJUANA</title>
 Add WordPress Admin
-Uname::
 AnonSec Shell
 0byte Mini
 Shal Shell Kontol:V
 fuckedshet
 input type="submit" name="linknya" class="up" value="Upload"
 <title>File manager</title>
-<span>Upload file:</span>
 <title>L I E R SHELL</title>
 Yanz Webshell
-vu<title>Webshell</title>lncode
 <button type="button" onclick="submitForm()">Go</button>
 Haxor Clan</small>
 <div class='text-light my-1'> ULTRA</div>
 <title>||TINY SHELL ||</title>
 method= "post" action= ""> <input type="input" name ="f_p" value= ""/><input type= "submit" value= ">&gt;" ]
-<title>Gel4y Mini Shell</title>
 <title>Upload a file</title>
 Mr.Combet WebShell
-Upload File : <input type="file" name="file
 type="button">Upload File<
 //0x5a455553.github.io/MARIJUANA/main.css
 input type="file" name="__"><input name="_" type="submit" value="Upload"
-enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file" size="50"><input name="_upl" type="submit" id="_upl" value="Upload
 Public Shell Version 2.0
 Faizzz-Chin ShellXploit
-b374k
-Â© BDKR28
-Â© Overthinker1877
-Â© BlackDragon 2023
-- FoxWSO v1</title>
-Â©left; PDFshell to PHP-2023
+Overthinker1877
+PDFshell to PHP-2023
 file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)
-Ova-Tools
-OI TOD - THE BLACK PAPERprivate0day
-Simple File Manage Design by index.php
 <pre align=center><form method=post>Password<br><input type=password name=pass style='background-color:whitesmoke;border:1px solid #FFF;outline:none;'
+<title>Real Shit</title>
+<input name=postpass type=password
+input type=password name=pass><input type=submit value='>
+>Password<br><input
+<pre align=center><form method=post>Password<br><input type=password name=pass
+<input type=password name=pass 
+<input type="submit" name='watching'
+<pre align=center><form method=post>Password<br><input type=password
