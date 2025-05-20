@@ -176,7 +176,6 @@ Gel4y Mini
 method= \post\ action= \\> <input type=\input\ name =\f_p\ value= \\/><input type= \submit\ value= \>&gt;\ ]
 TINY SHELL
 <title>#shwty</title>
-<small>Copyright Ã‚Â© 2021 - Haxor Clan</small>
 [ Avaa Bypassed ]
 SEA-GHOST MINSHELL
 <input type="submit" value="Upload"
@@ -257,9 +256,6 @@ Sh3ll BY Anons79
 bY Fox Cyber Security
 https://t.me/FoxCyberSecurity
 Shell v3 NEW!
-Uname&#
-[ HOME ]
-Enjoy it </h1><html><head><title>Upload files...<
 Local file: <input type =
 >Shell Command<
 #content_loading#
@@ -270,7 +266,6 @@ Code By Kelelawar Cyber Team
 shell bypass 403
 RC-SHELL v2.0.2011.1009
 F4st~03 Bypass 403
-Copyright negat1ve1337
 [+[MAD TIGER]+]
 Franz Private Shell
 Webshell V1.0
@@ -318,7 +313,6 @@ method= "post" action= ""> <input type="input" name ="f_p" value= ""/><input typ
 <title>Upload a file</title>
 Mr.Combet WebShell
 type="button">Upload File<
-//0x5a455553.github.io/MARIJUANA/main.css
 input type="file" name="__"><input name="_" type="submit" value="Upload"
 Public Shell Version 2.0
 Faizzz-Chin ShellXploit
