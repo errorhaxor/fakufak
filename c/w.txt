@@ -1,4 +1,3 @@
-
 "<span>Upload file:")
 drwx--x--x
 drwxr-xr-x
@@ -108,7 +107,6 @@ Backdoor Destroyer
 ./AlfaTeam
 %PDF-0-1
 nopebee7 [@] skullxploit
-nopebee7 [@] skullxploit
 type="submit" name="upload">Upload`) {
 AnonSec Shell
 0x5a455553.github.io/MARIJUANA/icon.png
@@ -121,3 +119,163 @@ input type="submit" name="submit" value="Upload"
 name="command" placeholder="Command"
 >File Upload :<
 <input type="submit" name="upload_file" value="Upload File">
+type="submit" id="_upl" value="Upload">
+PRIV8 WEB SHELL
+<input type="submit" value="Upload">
+<title>000</title>
+-rw-r--r--
+Upload File : <input
+Mini Shell
+input type='submit' value='upload shell'
+<input type='file'
+"FilesMan"
+1975 Team
+name="uploader" id="uploader">
+BlackDragon
+Shell Bypass 403 GE-C666C
+//0x5a455553.github.io/MARIJUANA/icon.png
+>Password<br><input
+value='Nyanpasu!!!'
+input type="text" readonly="1" id="upload_visible"
+<p align="center"><center><font style="font-size:13px" color="#008000" face="Trebuchet MS">
+Â© ULTRA
+<input type="submit" name="submit" value="  >>">
+<title>Leaf PHPMailer</title>
+input type="submit" value=">>">
+Uname&#
+Cwd:
+anonymousfox
+<input type="submit" value="Upload"/>
+Server IP :
+<input type=submit value="Up">
+Mini shell
+b374k 2.8
+Developed By FierzaXploit
+<title>xXx Kelelawar Cyber Team xXx</title>
+Leaf PHPMailer
+<input name="_" type="submit" value="Upload"></form>
+FilesMan
+AUTO ROOT
+Base Dir
+Hunter Neel
+type="file"/><input type="submit"
+b374k m1n1
+iTSecTeam.com
+Bypass Shell
+-rw-rw-rw-
+value="chmod">Chmod</option>
+<input type="submit" value="ok">
+input type=password name=pass><input type=submit value='>>'>
+Minishell
+server ip :
+<center><h2>Gentoo @ MyHack</h2></center>
+[FILES MANAGEMENT]
+<button>Gaskan</button>
+<input type="file" name="file" size="50"><input name=
+kill_the_net
+<title>Elep</title>
+Negat1ve Shell
+Mass Deface/Delete
+#p@@#
+drwxrwxrwx
+input type="file" id="inputfile"
+B Ge Team File Manager
+Local root indishell
+<title>kaylin
+<title>IndoXploit</title>
+Web Console
+RandsX aka T1kus_g0t
+RxR HaCkEr
+CHips L Pro sangad
+<title>webadmin.php</title>
+[ Avaa Bypassed ]
+Simple Shell
+TinyFileManager
+<input name="_upl"id="_upl
+<title>请勿使用非法用途</title>
+[UNAME]
+name="yol"
+<title>DRUNK
+<title>.::.</title>
+© ULTRA
+Mister Spy
+Vuln!! patch it Now!
+<title> kill_the_net </title>
+Jijle3
+C0mmand
+input type="submit" name="submit" value=">>"
+Shell Uploader
+class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
+<h1>[ Shin Bypassed ]</h1>
+MINI MINI MANI MO
+403WebShell
+<title>Quản lý File</title>
+<input type="submit>
+Ova-Tools
+value="goodit"/>
+TheAlmightyZeus
+<title>Quáº£n lÃ½ File</title>
+<input type="submit" value="ddok"/>
+[ HOME SHELL ]
+aDriv4
+Hacked By AnonymousFox
+Select image to upload:
+Mr.KaitoX Bypass Shell
+FierzaXploit {Mini Shell }
+TrenggalekTeam
+Tryag File Manager
+ubhteam
+xichang1
+Mini Shell By Black_Shadow
+Yanz Webshell!
+WHY MINI SHELL
+IndoXploit
+<form method="POST" enctype="multipart/form-data"> <input type="file" name="file"> <input type="submit" value="up_it"> </form>
+MARIJuANA
+indoxploit
+ALFA TEaM Shell - v4.1-Tesla
+ALFA TEaM Shell - v3.0.2
+<input name='postpass' type='password'
+<input name=postpass type=password
+<pre align=center><form method=post>Password<br><input type=password name=pass
+<input type="submit" name='watching'
+b374k
+Gel4y
+MINIShel
+dead1975
+\u00a9 BDKR28
+Black Bot
+CREATE RDP
+c99madshell
+deadcode1975
+{Ninja-Shell}
+Red Mini Shell
+Gel4y Mini Shell
+\u00a9TheAlmightyZeus
+\u00a9 Overthinker1877
+UnknownSec Bypass
+\u00a9 BlackDragon 2023
+Mr. X Privet Shell
+DarkClownSecurity v.
+[ phpinfo ] Datetime:
+<title>MoD Shell</title>
+SHELL MINI RANSOMWARE V5
+Black Eagle Team Minishell
+\u00a9left; PDFshell to PHP-2023
+<title>{Ninja-Shell}</title>
+[ Shell Upload 403 Eo9Ti ]~~
+<center><h2>0x666</h2></center>
+<title>Tiny File Manager</title>
+<input type=submit value="UPload">
+https://github.com/Den1xxx/Filemanager
+<title>Shell Bypass 403 GE-C666C</title>
+http://solevisible.com/icons/menu/view.svg
+N3tShell v. LatinHackTeam Gatos putos team
+<H1><center>Sindbad~EG File Manager</center></H1>
+<input type="submit" name="test" value="Upload" />
+input name="_upl" type="submit" id="_upl" value="Upload"
+<input type=file name=upfile> <input type=submit value=Upload>
+required><input type=submit name='watching' value='submit' style="
+<form method=post>Password<br><input type=password name=pass style="
+<input type="file" name="upfile"> <input type="submit" value="Upload">
+file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)
