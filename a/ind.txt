@@ -1,3 +1,6 @@
+/wp-content/plugins/pwnd-1/
+/wp-content/plugins/pwnd
+/wordpress/wp-admin/includes/
 /images/
 /uploads/
 /assets/
