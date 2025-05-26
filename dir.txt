@@ -46,6 +46,7 @@ Uploader RCKING
  deadcode1975 
 0byt3m1n1
 VinzXploit
+<title>backdoor creator</title>
 #0x2525
 ZeroSEC File Manager
 <title>Success!:D</title>
@@ -80,10 +81,8 @@ type="button">Upload File</button></a>
 <title>:: Ghost m1n1
 http://php.spb.ru/remview/
 input type="submit" name="submit" value="Upload
-input type="submit" value="upload"
 input type="submit" name="upload
 id="_upl" value="Upload"
-input type="submit" value="Upload
 input type="submit" name="linknya" class="up" value="Upload
 form method=post>Password:
 form method=post>Password
@@ -100,11 +99,9 @@ n":"tmpls","d":"","s":true
 input type='submit' name='upload' value='upload
 SIMPEL BANGET NIH SHELL
 Modified By #No_Identity
-Function putenv()
 Lambo [Beta]
 [ Home Shell ]
 Backdoor Destroyer
-./AlfaTeam
 %PDF-0-1
 nopebee7 [@] skullxploit
 type="submit" name="upload">Upload`) {
@@ -118,16 +115,12 @@ value="chmod"
 input type="submit" name="submit" value="Upload"
 name="command" placeholder="Command"
 >File Upload :<
-<input type="submit" name="upload_file" value="Upload File">
-type="submit" id="_upl" value="Upload">
 PRIV8 WEB SHELL
-<input type="submit" value="Upload">
 <title>000</title>
 -rw-r--r--
 Upload File : <input
 Mini Shell
 input type='submit' value='upload shell'
-<input type='file'
 "FilesMan"
 1975 Team
 name="uploader" id="uploader">
@@ -145,16 +138,13 @@ input type="submit" value=">>">
 Uname&#
 Cwd:
 anonymousfox
-<input type="submit" value="Upload"/>
 Server IP :
 <input type=submit value="Up">
 Mini shell
 b374k 2.8
 Developed By FierzaXploit
 <title>xXx Kelelawar Cyber Team xXx</title>
-Leaf PHPMailer
 <input name="_" type="submit" value="Upload"></form>
-FilesMan
 AUTO ROOT
 Base Dir
 Hunter Neel
@@ -167,13 +157,11 @@ value="chmod">Chmod</option>
 <input type="submit" value="ok">
 input type=password name=pass><input type=submit value='>>'>
 Minishell
-server ip :
 <center><h2>Gentoo @ MyHack</h2></center>
 [FILES MANAGEMENT]
 <button>Gaskan</button>
 <input type="file" name="file" size="50"><input name=
 kill_the_net
-<title>Elep</title>
 Negat1ve Shell
 Mass Deface/Delete
 #p@@#
@@ -230,17 +218,15 @@ Mini Shell By Black_Shadow
 Yanz Webshell!
 WHY MINI SHELL
 IndoXploit
+<title>Advanced File Manager</title>
 <form method="POST" enctype="multipart/form-data"> <input type="file" name="file"> <input type="submit" value="up_it"> </form>
 MARIJuANA
 indoxploit
-ALFA TEaM Shell - v4.1-Tesla
-ALFA TEaM Shell - v3.0.2
 <input name='postpass' type='password'
 <input name=postpass type=password
 <pre align=center><form method=post>Password<br><input type=password name=pass
 <input type="submit" name='watching'
 b374k
-Gel4y
 MINIShel
 dead1975
 \u00a9 BDKR28
@@ -250,7 +236,6 @@ c99madshell
 deadcode1975
 {Ninja-Shell}
 Red Mini Shell
-Gel4y Mini Shell
 \u00a9TheAlmightyZeus
 \u00a9 Overthinker1877
 UnknownSec Bypass
@@ -273,9 +258,9 @@ http://solevisible.com/icons/menu/view.svg
 N3tShell v. LatinHackTeam Gatos putos team
 <H1><center>Sindbad~EG File Manager</center></H1>
 <input type="submit" name="test" value="Upload" />
-input name="_upl" type="submit" id="_upl" value="Upload"
 <input type=file name=upfile> <input type=submit value=Upload>
 required><input type=submit name='watching' value='submit' style="
 <form method=post>Password<br><input type=password name=pass style="
-<input type="file" name="upfile"> <input type="submit" value="Upload">
 file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json)
+method="POST">Login <input type="password"
+<link rel='icon' href='https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/hehe.png'>
