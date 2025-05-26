@@ -1,7 +1,10 @@
 /wordpress/wp-admin/includes/class-ftp.php
 /wp-content/plugins/pwnd/pwnd.php
+https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-content/plugins/pwnd-1/pwnd.php
 /Simple.php
+/elp.php
+/login.php
 /chosen.php
 /wp-content/plugins/WordPressCore/include.php
 /mah/function.php
@@ -15,6 +18,7 @@
 /index/function.php
 /wp-content/index.php
 /byp.php
+/cjfuns.php
 /alfa-rex.php7
 /about/function.php
 /wp-includes/widgets/include.php
@@ -621,8 +625,6 @@
 /wp-tinymce.php
 /crop.php
 /webshell.php
-/sts.php
-/login.php
 /wp-content/db-cache.php
 /wp-content/themes/twentyfive/include.php
 /wp-configs.php
