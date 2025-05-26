@@ -55,6 +55,7 @@ Uploader RCKING
  deadcode1975 
 0byt3m1n1
 VinzXploit
+<title>R00t-Shell</title>
 <title>backdoor creator</title>
 #0x2525
 ZeroSEC File Manager
@@ -117,6 +118,9 @@ AnonSec Shell
 0x5a455553.github.io/MARIJUANA/icon.png
 input type="file" name="upload"
 FilesTools
+>Mini MYSQL Admin Panel</h2>
+<label>🎯 Target File Path:</label><br>
+<title>WP CloakPanel</title>
 cPanel Reset Password
 <input type="submit" value="Upload"
 value="chmod"
@@ -199,7 +203,6 @@ Shell Uploader
 class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
 <h1>[ Shin Bypassed ]</h1>
 MINI MINI MANI MO
-403WebShell
 <title>Quản lý File</title>
 <input type="submit>
 Ova-Tools
@@ -260,3 +263,4 @@ method="POST">Login <input type="password"
 <link rel='icon' href='https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/hehe.png'>
 <label for="admpwd">Password : </label>
 <li class="brand">DCSC Shell v1.0b</li>
+<input type="password" name="passwd" placeholder="Enter the password....">
