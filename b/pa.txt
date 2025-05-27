@@ -3,6 +3,7 @@ https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-content/plugins/pwnd-1/pwnd.php
 /Simple.php
 /elp.php
+/file5.php
 /login.php
 /chosen.php
 /wp-content/plugins/WordPressCore/include.php
