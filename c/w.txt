@@ -20,9 +20,9 @@ Good Bye Litespeed
 <title>Bypass File Manager Shell (R00t Shell)</title>
 upload"></i><span>File Upload</span></li>
 The Not So Simple PHP Command Shell</h4><br>
-<p>Current Directory:
 >Welcome to the PHP terminal!</span>
 <head><title>new</title></head>
+Current directory:
 Franz Private Shell
 HACKED BY B14CK-KN1GH7
 <title>BluePlast</title>
