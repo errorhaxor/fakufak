@@ -1,5 +1,5 @@
 /wp-content/plugins/pwnd/pwnd.php
-https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
+/wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-content/plugins/pwnd-1/pwnd.php
 /Simple.php
 /elp.php
