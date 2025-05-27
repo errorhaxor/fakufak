@@ -169,6 +169,7 @@ https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /fun.php
 /trust.php
 /godsend.php
+/wp-includes/css/dist/index.php
 /wp-scripts.php
 /wp-editor.php
 /jp.php
