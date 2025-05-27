@@ -14,6 +14,7 @@ https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /mah.php
 /file.php
 /wp-includes/certificates/chosen.php
+/templates/atomic/templates.php
 /wpn.php
 /wp-admin/network/admin.php
 /dropdown.php
