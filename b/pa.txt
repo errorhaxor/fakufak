@@ -1,4 +1,3 @@
-/wordpress/wp-admin/includes/class-ftp.php
 /wp-content/plugins/pwnd/pwnd.php
 https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-content/plugins/pwnd-1/pwnd.php
@@ -521,7 +520,6 @@ https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-admin/css/colors/blue/index.php
 /wp-includes/IXR/wp-login.php
 /wp-includes/makeasmtp.php
-/wp-content/themes/sketch/404.php
 /post.php
 /wp-content/themes/bltm/wp-login.php
 /test.php/wp-content/uploads/wp_live_chat/abruzi.php
@@ -641,3 +639,5 @@ https://horus-swiss.ch//wp-content/ThreeFox_Exploit/threefox.php?threefox
 /wp-p.php7
 /wp-includes/function.php
 /wp-admin/themes.php
+/wp-content/themes/sketch/404.php
+/wordpress/wp-admin/includes/class-ftp.php
