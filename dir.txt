@@ -133,7 +133,6 @@ input type='submit' value='upload shell'
 "FilesMan"
 1975 Team
 name="uploader" id="uploader">
-BlackDragon
 Shell Bypass 403 GE-C666C
 //0x5a455553.github.io/MARIJUANA/icon.png
 value='Nyanpasu!!!'
