@@ -218,7 +218,6 @@ WHY MINI SHELL
 MINIShel
 dead1975
 \u00a9 BDKR28
-Black Bot
 CREATE RDP
 c99madshell
 deadcode1975
