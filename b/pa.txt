@@ -543,7 +543,7 @@
 /images/content.php
 /rc.php
 /.well-known/acme-challenge/cloud.php
-/hehe.php
+/wp-content/hehe.php
 /wp-pano.php
 /cux.php
 /wp-includes/wp-load.php
