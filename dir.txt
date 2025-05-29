@@ -147,7 +147,6 @@ Mini shell
 Developed By FierzaXploit
 <title>xXx Kelelawar Cyber Team xXx</title>
 AUTO ROOT
-Base Dir
 Hunter Neel
 type="file"/><input type="submit"
 iTSecTeam.com
