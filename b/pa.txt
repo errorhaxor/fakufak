@@ -9,6 +9,7 @@
 /files/evil.php
 /css/webshell.php
 /js/backdoor.php
+/wp-admin/fmadmin.php
 /config.php
 /tmp.php
 /ws.php
@@ -433,7 +434,6 @@
 /docs/tclu0b.php.suspected
 /mode.php
 /wp-includes/
-/wp-admin/fmadmin.php
 /wp-content/plugins/dzs-zoomsounds/coder.php
 /content.php
 /error.php
