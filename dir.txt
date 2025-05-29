@@ -42,7 +42,6 @@ Pdf To php by sigantenghaxor
 Upload files...
 KurdLinux Priv8
 Web-Shell
-okokok
 <title>Bypass</title>
 webr00t
 Litespeed Bypass Shell
@@ -169,7 +168,6 @@ B Ge Team File Manager
 Local root indishell
 <title>kaylin
 <title>IndoXploit</title>
-Web Console
 RandsX aka T1kus_g0t
 CHips L Pro sangad
 <title>webadmin.php</title>
