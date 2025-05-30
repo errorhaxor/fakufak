@@ -13,8 +13,10 @@
 /config.php
 /tmp.php
 /ws.php
+/click.php 
 /xxx.php
 /cmd.php
+/wp-content/plugins/hellopress/wp_filemanager.php 
 /admin/uploads/upload.php
 /admin/includes/upload.php
 /administrator/components/com_media/helpers/media.php
@@ -521,6 +523,7 @@
 /wp-admin/maint/wp-login.php
 /upfile.php
 /wp-content/mah.php
+/wp-apxupx.php
 /indsex.php
 /wp-admin/maint/flower.php
 /wp-includes/classwithtostring.php
