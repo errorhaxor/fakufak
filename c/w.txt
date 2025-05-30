@@ -251,5 +251,4 @@ form method=post>Password
 <input type="submit" name="submit" value="  >>">
 <input name='postpass' type='password'
 %PDF-0-1
-class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
 input type=password name=pass><input type=submit value='>>'>
