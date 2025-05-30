@@ -197,7 +197,6 @@ value="goodit"/>
 <input type="submit" value="ddok"/>
 [ HOME SHELL ]
 aDriv4
-Select image to upload:
 Mr.KaitoX Bypass Shell
 FierzaXploit {Mini Shell }
 TrenggalekTeam
