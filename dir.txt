@@ -125,7 +125,6 @@ name="command" placeholder="Command"
 >File Upload :<
 PRIV8 WEB SHELL
 <title>000</title>
--rw-r--r--
 Upload File : <input
 Mini Shell
 input type='submit' value='upload shell'
