@@ -187,7 +187,6 @@ Shell Uploader
 MINI MINI MANI MO
 <title>Quản lý File</title>
 <input type="submit>
-Ova-Tools
 value="goodit"/>
 <title>Quáº£n lÃ½ File</title>
 <input type="submit" value="ddok"/>
