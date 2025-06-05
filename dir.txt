@@ -1,6 +1,5 @@
 "<span>Upload file:")
 drwx--x--x
-drwxr-xr-x
 Uname:
 Simple File Manage Design by index.php
 X-Sec Shell V.3
