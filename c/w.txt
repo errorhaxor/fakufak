@@ -66,6 +66,7 @@ Mini-FileManager
 ||TINY SHELL ||
 <title>p0wny@shell:~#</title>
 <td>Uname</td>
+>+ New Dir</a>
 File Manger
 GIF89;aGIF89;aGIF89;a
 SEA-GHOST MINSHELL
