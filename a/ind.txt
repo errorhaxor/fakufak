@@ -71,7 +71,6 @@
 /admin/editor/
 /include/
 /Assets/
-/images/stories/
 /plugins/
 /php/
 /wp-includes/assets/
