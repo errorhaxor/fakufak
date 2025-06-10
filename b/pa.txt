@@ -301,7 +301,6 @@
 /engine.php
 /wp-admin/404.php
 /adminer.php
-/index.php
 /wp-content/plugins/hellopress/wp_filemanager.php
 /wp-admin/dropdown.php
 /wp-admin/js/widgets/xmrlpc.php
@@ -342,14 +341,8 @@
 /wp-activate.php
 /wp-sigunq.php
 /xmrlpc.php
-/ae.php
 /blog.php
 /updates.php
-/aks.php
 /buy.php
 /widgets.php
 /wp-conflg.php
-/wp-content/plugins/hellopress/wp_filemanager.php.php
-/method.php
-/plugins.php.php
-/shell.php.php
