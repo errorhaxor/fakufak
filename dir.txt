@@ -172,7 +172,6 @@ CHips L Pro sangad
 Simple Shell
 TinyFileManager
 <input name="_upl"id="_upl
-[UNAME]
 name="yol"
 <title>DRUNK
 <title>.::.</title>
