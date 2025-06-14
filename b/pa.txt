@@ -108,7 +108,6 @@
 /wp-admin/user/index.php
 /click.php
 /xx.php
-/upload.php
 /wp-admin/classwithtostring.php
 /as.php
 /wp-content/themes/twentytwenty/404.php
