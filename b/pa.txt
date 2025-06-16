@@ -50,7 +50,6 @@
 /item.php
 /wp-admin/images/index.php
 /wp-content/ThreeFox_Exploit/index.php
-/wp-admin/css/colors/blue/ 35.php
 /filemanager.php
 /cong.php
 /themes.php
@@ -145,6 +144,12 @@
 /link.php
 /12.php
 /lv.php
+/wp-includes/wp-class.php
+/templates/beez/index.php
+/wp-includes/js/wp-signup.php
+/wp-includes/fonts/about.php
+/wp-content/plugins/WordPressCore/index.php
+/lock.php
 /wp-includes/customize/about.php
 /wp-admin/maint/go.php
 /wp-includes/ID3/about.php
