@@ -1,3 +1,4 @@
+/wp-admin/media-new.php
 /file.php
 /wp-admin/theme-editor.php
 /wp-content/themes/twenty/404.php
