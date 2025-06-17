@@ -15,20 +15,21 @@ Good Bye Litespeed
 <title>Web Shell</title>
 <title>BypasChankro Haxorsec</title>
 <input type="submit" value="execute">
-<title>Yu1709$!%yuyu!$%wutu!5=126+</title>
 <tr><td>[~] Uname -a: <u>
 <title>Bypass File Manager Shell (R00t Shell)</title>
 upload"></i><span>File Upload</span></li>
 The Not So Simple PHP Command Shell</h4><br>
-Current Directory:
 >Welcome to the PHP terminal!</span>
 <head><title>new</title></head>
+Current directory:
 Franz Private Shell
 HACKED BY B14CK-KN1GH7
 <title>BluePlast</title>
+#!*&@#!*&@#
 WIBUHAX0R1337 - ShelL
 <title>GODSpy</title>
 By Scra3zy
+<title>Yu1709$!%yuyu!$%wutu!5=126+</title>
 ..:: - WIBUHAXOR1337 - v1- Lutfifakee ::..
 <title>Shell?</title>
 ~[ MrJ Bypasser Shell ]~
@@ -58,6 +59,8 @@ VinzXploit
 <title>backdoor creator</title>
 #0x2525
 ZeroSEC File Manager
+Yanz Webshell!
+| PHP 7.4.27 |
 <title>Success!:D</title>
 Little File Manager
 File Storage Artur W
@@ -66,6 +69,7 @@ Mini-FileManager
 ||TINY SHELL ||
 <title>p0wny@shell:~#</title>
 <td>Uname</td>
+>+ New Dir</a>
 File Manger
 GIF89;aGIF89;aGIF89;a
 SEA-GHOST MINSHELL
@@ -123,7 +127,6 @@ input type="submit" name="submit" value="Upload"
 name="command" placeholder="Command"
 >File Upload :<
 PRIV8 WEB SHELL
-<title>000</title>
 Upload File : <input
 Mini Shell
 input type='submit' value='upload shell'
