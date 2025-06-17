@@ -1,5 +1,11 @@
 /wp-admin/media-new.php
 /file.php
+/storage/framework/views/shell.php
+/uploads/shell.php
+/tmp/shell.php
+/user_uploads/shell.php
+/media/shell.php
+/cache/shell.php
 /wp-admin/theme-editor.php
 /wp-content/themes/twenty/404.php
 /wp-admin/plugin-editor.php
