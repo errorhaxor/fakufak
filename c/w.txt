@@ -25,6 +25,7 @@ Current directory:
 Franz Private Shell
 HACKED BY B14CK-KN1GH7
 <title>BluePlast</title>
+#!*&@#!*&@#
 WIBUHAX0R1337 - ShelL
 <title>GODSpy</title>
 By Scra3zy
@@ -58,6 +59,8 @@ VinzXploit
 <title>backdoor creator</title>
 #0x2525
 ZeroSEC File Manager
+Yanz Webshell!
+| PHP 7.4.27 |
 <title>Success!:D</title>
 Little File Manager
 File Storage Artur W
