@@ -2,6 +2,8 @@
 /file.php
 /storage/framework/views/shell.php
 /uploads/shell.php
+/wp-content/themes/news-portal/error.php
+https://www.sunyih
 /tmp/shell.php
 /user_uploads/shell.php
 /media/shell.php
