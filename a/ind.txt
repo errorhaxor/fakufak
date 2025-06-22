@@ -1,5 +1,6 @@
 /wp-content/plugins/pwnd-1/
-/wp-content/plugins/pwnd
+/wp-content/plugins/pwnd/
+/wp-content/themes/twentytwentytwo/parts/
 /wordpress/wp-admin/includes/
 /images/
 /uploads/
