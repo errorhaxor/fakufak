@@ -3,6 +3,7 @@
 /file.php
 /storage/framework/views/shell.php
 /uploads/shell.php
+/wp-admin/images/class-widget.php
 /wp-content/themes/news-portal/error.php
 /wp-content/uploads/revslider/index.php
 /tmp/shell.php
