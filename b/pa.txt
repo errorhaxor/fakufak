@@ -13,6 +13,7 @@
 /wp-admin/theme-editor.php
 /wp-content/themes/twenty/404.php
 /wp-content/uploads/2018/04/index.php
+/wp-includes/sitemaps/providers/class-wp-sitemaps-css.php
 /wp-admin/plugin-editor.php
 /hello.php
 /wp-admin/media-new.php
