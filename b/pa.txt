@@ -4,13 +4,14 @@
 /storage/framework/views/shell.php
 /uploads/shell.php
 /wp-content/themes/news-portal/error.php
-https://www.sunyih
+/wp-content/uploads/revslider/index.php
 /tmp/shell.php
 /user_uploads/shell.php
 /media/shell.php
 /cache/shell.php
 /wp-admin/theme-editor.php
 /wp-content/themes/twenty/404.php
+/wp-content/uploads/2018/04/index.php
 /wp-admin/plugin-editor.php
 /hello.php
 /wp-admin/media-new.php
