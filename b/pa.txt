@@ -1,3 +1,4 @@
+/asasx.php
 /wp-admin/media-new.php
 /file.php
 /storage/framework/views/shell.php
