@@ -8,6 +8,7 @@
 /wp-content/uploads/revslider/index.php
 /tmp/shell.php
 /user_uploads/shell.php
+/.well-known/pki-validation/server.php
 /media/shell.php
 /cache/shell.php
 /wp-admin/theme-editor.php
@@ -42,13 +43,16 @@
 /wp-content/plugins/fix/up.php
 /wp-content/plugins/pwnd/pwnd.php
 /admin/function.php
+/wp-admin/js/widgets/footer.php
 /classwithtostring.php
 /autoload_classmap.php
 /mah/function.php
+/wp-content/themes/digital-download/admin.php
 /wp-includes/class-wp-smtp-bar.php
 /wp-admin/js/index.php
 /wp-admin/fmadmin.php
 /wp-content/themes/seotheme/mar.php
+/wp-includes/PHPMailer/about.php
 /goods.php
 /tinyfilemanager.php
 /wp-content/plugins/core-plugin/include.php
@@ -137,10 +141,12 @@
 /wp-admin/user/index.php
 /click.php
 /xx.php
+/wp-editor.php
 /wp-admin/classwithtostring.php
 /as.php
 /wp-content/themes/twentytwenty/404.php
 /ova-tools.php
+/mariju.php
 /wp-content/mah.php
 /plugins.php
 /css.php
@@ -153,6 +159,8 @@
 /upload/upload.php
 /wp-content/themes/seotheme/db.php
 /wp-admin.php
+/wp-links-opml.php
+/wp-includes/block-supports/index.php
 /wp-signup.php
 /defaults.php
 /wp-content/plugins/seoplugins/mar.php
@@ -226,6 +234,7 @@
 /templates/atomic/templates.php
 /wp-conflg.php
 /wp-includes/js/index.php
+/profile.php
 /atomlib.php
 /m.php
 /wp-content/autoload_classmap.php
