@@ -79,7 +79,6 @@
 /.well-known/40.php
 /wp-admin/includes/index.php
 /wp.php
-/index.php
 /.well-known/acme-challenge/about.php
 /item.php
 /wp-admin/images/index.php
