@@ -1,13 +1,19 @@
 /asasx.php
+/load.php
 /wp-admin/media-new.php
 /file.php
+/wp-error.php
 /storage/framework/views/shell.php
 /uploads/shell.php
+/signup.php
+/wp-content/uploads/wp.php
 /wp-admin/images/class-widget.php
 /wp-content/themes/news-portal/error.php
+/wp-includes/Requests/library/index.php
 /wp-content/uploads/revslider/index.php
 /tmp/shell.php
 /user_uploads/shell.php
+/wp-content/ccx/index.php
 /.well-known/pki-validation/server.php
 /media/shell.php
 /cache/shell.php
@@ -18,6 +24,7 @@
 /wp-admin/plugin-editor.php
 /hello.php
 /wp-admin/media-new.php
+/as/function.php
 /wp-comments-post.php
 /wp-comments.php?cmd=id
 /shell.blade.php
@@ -25,7 +32,7 @@
 /heh.php
 /NewFile.php
 /wp-content/plugins/view-more/ioxi.php
-/wp-content/plugins/erinyani/baxa1.php7
+/wp-content/plugins/erinyani/index.php
 /baxa1.php7
 /wp-content/plugins/erinyani/baxa1.php
 /baxa1.php
@@ -74,6 +81,7 @@
 /class.api.php
 /dropdown.php
 /class.php
+/flower.php
 /text.php
 /wp-admin/images/about.php
 /.well-known/40.php
@@ -122,7 +130,7 @@
 /23.php
 /license.php
 /wp-admin/network/index.php
-/wp-content/plugins/dummyyummy/wp-signup.php
+/wp-content/plugins/dummyyummy/wp-
 /wp-content/themes/astra/inc/ki1k.php
 /wp-content/classwithtostring.php
 /wp-content/themes/index.php
@@ -160,7 +168,7 @@
 /wp-admin.php
 /wp-links-opml.php
 /wp-includes/block-supports/index.php
-/wp-signup.php
+/wp-
 /defaults.php
 /wp-content/plugins/seoplugins/mar.php
 /wp-content/plugins/about.php
@@ -190,7 +198,6 @@
 /wp-includes/customize/about.php
 /wp-admin/maint/go.php
 /wp-includes/ID3/about.php
-/wp-content/uploads/wp.php
 /wp-includes/product.php
 /xmlrpc.php
 /wp-add.php
@@ -238,6 +245,7 @@
 /m.php
 /wp-content/autoload_classmap.php
 /wp-admin/css/about.php
+/wp-content/upgrade/index.php
 /wp-admin/css/colors/blue/upload.php
 /wp-content/ThreeFox_Exploit/threefox.php
 /simple/function.php
