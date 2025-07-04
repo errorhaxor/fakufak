@@ -18,6 +18,7 @@
 /wp-includes/js/tinymce/plugins/compat3x/
 /wp-content/plugins/Cache/
 /css/
+/wp-content/themes/astra/inc/
 /cgi-bin/cgi-bin/
 /cgi-bin/
 /.wp-cli/
@@ -26,6 +27,7 @@
 /wp-content/
 /wp-admin/js/
 /wp-admin/
+/wp-includes/css/dist/block-editor/
 /wp-includes/
 /wp-content/upgrade/
 /wp-content/dir/
@@ -34,6 +36,7 @@
 /wp-content/plugins/
 /wp-content/themes/
 /wp-includes/ID3/
+/wp-includes/SimplePie/library/SimplePie/
 /wp-content/css/
 /wp-content/ALFA_DATA/alfacgiapi/
 /wp-content/uploads/
