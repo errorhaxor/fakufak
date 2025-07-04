@@ -9,6 +9,7 @@
 /ALFA_DATA/alfacgiapi/
 /wordpress/
 /site/
+/wp-content/themes/twentytwentytwo/parts/
 /js/
 /wp-includes/js/tinymce/plugins/compat3x/css/
 /wp-includes/Text/
