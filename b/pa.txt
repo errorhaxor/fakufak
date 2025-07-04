@@ -1,10 +1,15 @@
 /asasx.php
+/great1.php
 /load.php
 /wp-admin/media-new.php
 /file.php
 /wp-error.php
 /storage/framework/views/shell.php
 /uploads/shell.php
+/akc.php
+/wp-admin/wp-admins.php
+/wp-content/plugins/google-seo-rank/module.php
+/ava.php
 /signup.php
 /wp-content/uploads/wp.php
 /wp-admin/images/class-widget.php
@@ -117,6 +122,7 @@
 /wp-includes/css/index.php
 /new.php
 /makeasmtp.php
+/akp.php
 /wp-mail.php
 /wp-content/plugins/WordPressCore/include.php
 /a.php
@@ -127,6 +133,7 @@
 /shell20211028.php
 /wp-admin/css/index.php
 /ynz.PhP7
+/baxa1.phP8
 /23.php
 /license.php
 /wp-admin/network/index.php
