@@ -6,6 +6,7 @@
 /wp-error.php
 /storage/framework/views/shell.php
 /uploads/shell.php
+/wp-content/plugins/yanierin/akc.php
 /wp-admin/includes/contact.php
 /akc.php
 /wp-admin/includes/header.php
