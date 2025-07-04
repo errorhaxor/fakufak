@@ -15,6 +15,7 @@
 /wp-admin/includes/webix.php
 /wp-content/themes/twentytwentytwo/parts/about.php
 /wp-admin/wp-admins.php
+/.well-known/pki-validation/dns.php
 /past.php
 /wp-includes/widgets/wp-conflg.php
 /wp-admin/includes/foter.php
