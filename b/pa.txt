@@ -1,6 +1,7 @@
 /asasx.php
 /great1.php
 /load.php
+/IndonesianPeople.php
 /wp-admin/media-new.php
 /file.php
 /wp-error.php
