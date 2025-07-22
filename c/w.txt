@@ -13,6 +13,7 @@ Symlink Get Config 403
 <title> 1975Team</title>
 <title> K3RAMA7 </title>
 Good Bye Litespeed
+<input type="file" name="up_file">
 <title>Web Shell</title>
 <title>BypasChankro Haxorsec</title>
 <input type="submit" value="execute">
