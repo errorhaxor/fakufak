@@ -12,6 +12,7 @@ Symlink Get Config 403
 <title>Hun73rCL4W Uploader v2</title>
 <title> 1975Team</title>
 <title> K3RAMA7 </title>
+<input type="file" name="up_file">
 Good Bye Litespeed
 <title>Web Shell</title>
 <title>BypasChankro Haxorsec</title>
