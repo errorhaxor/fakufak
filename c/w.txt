@@ -7,6 +7,7 @@ drwxr--r-x
 Add Directory :
 <title>Priv8</title>
 <title>Shell</title>
+<th><center>Owner</center></th>
 Symlink Get Config 403
 <title>Hun73rCL4W Uploader v2</title>
 <title> 1975Team</title>
