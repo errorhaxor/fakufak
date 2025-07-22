@@ -11,6 +11,7 @@
 /uploads/shell.php
 /yasnu.php
 /wp-content/plugins/yanierin/akc.php
+/upload/index.php
 /wp-admin/includes/contact.php
 /akc.php
 /wp-admin/includes/header.php
