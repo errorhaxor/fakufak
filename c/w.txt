@@ -60,7 +60,6 @@ Uploader RCKING
 VinzXploit
 <title>R00t-Shell</title>
 <title>backdoor creator</title>
-#0x2525
 ZeroSEC File Manager
 Yanz Webshell!
 | PHP 7.4.27 |
