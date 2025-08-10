@@ -125,7 +125,6 @@ FilesTools
 cPanel Reset Password
 <input type="submit" value="Upload"
 value="chmod"
-input type="submit" name="submit" value="Upload"
 name="command" placeholder="Command"
 >File Upload :<
 PRIV8 WEB SHELL
