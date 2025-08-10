@@ -96,3 +96,17 @@
 /wp-content/plugins/WordPressCore/
 /wp-includes/blocks/calendar/
 /wp-includes/blocks/button/
+/wp-includes/blocks/archives/
+/wp-includes/js/tinymce/plugins/image/
+/wp-content/uploads/2023/05/
+/wp-content/languages/themes/
+/wp-includes/js/tinymce/plugins/wpgallery/
+/wp-includes/block-patterns/
+/wp-includes/js/tinymce/themes/inlite/
+/wp-includes/Text/Diff/Engine/
+/wp-content/plugins/erinyani/
+/wp-includes/block-bindings/
+/wp-content/themes/twentytwentyfour/
+/wp-admin/css/colors/blue/
+/wp-includes/sodium_compat/lib/
+/wp-includes/rest-api/endpoints/
