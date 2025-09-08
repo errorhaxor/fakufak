@@ -15,7 +15,6 @@
 /autoload_classmap.php
 /simple.php
 /class.api.php
-/
 /autoload_classmap/function.php
 /about.php
 /moon.php
@@ -134,7 +133,6 @@
 /b.php
 /.well-known/pki-validation/locale.php
 /wp-admin/maint/repair.php
-/wp-includes/widgets/class-wp-widget-archives-object.php.suspected
 /.well-known/nbjdbnpa.php
 /wp-includes/widgets/about.php
 /wp-includes/js/pimis.php
