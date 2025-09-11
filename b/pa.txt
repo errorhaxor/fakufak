@@ -1,3 +1,21 @@
+/wp-includes/sodium_compat/lib/endpoints/index.php
+/wp-includes/theme-compat/lib/index.php
+/wp-includes/block-bindings/library/index.php
+/wp-includes/Text/Diff/template-singl-portfolio.php
+/wp-includes/SimplePie/library/blocks/index.php
+/wp-includes/customize/theme-compat/index.php
+/wp-includes/interactivity-api/images/index.php
+/wp-includes/blocks/latest-posts/wordpress/index.php
+/wp-admin/js/widgets/interactivity-api/index.php?p=
+/wp-admin/user/latest-posts/index.php?p=
+/wp-admin/includes/customize/index.php
+/wp-admin/network/upgrade/index.php
+/wp-content/themes/twentytwentythree/templates/_inc/index.php
+/wp-content/themes/twentytwentyfive/styles/blocks/maint/index.php
+/wp-content/plugins/akismet/_inc/widgets/index.php
+/wp-content/upgrade/user/index.php
+/wp-content/click.php
+/wp-includes/customize/file.php
 /.well-known/gecko-litespeed.php
 /storage/framework/views/shell.php
 /manager.php
@@ -169,7 +187,6 @@
 /wp-includes/wp-includes_function.php
 /wp-includes/css/dist/components/index.php
 /wp-content/themes/news-portal/error.php
-/defaults.php
 /wp-content/themes/alera/alpha.php
 /wp-content/themes/404.php
 /js/index.php
@@ -177,7 +194,6 @@
 /wp-includes/about.php
 /pouyaasss.asp
 /plugins.php
-/wp-includes/Text/about.php
 /wp-content/themes/digital-download/new.php
 /wp-content/BypassBest.php
 /wp-content/themes/hideo/network.php
@@ -221,9 +237,7 @@
 /jindex.php
 /back.php
 /wp-includes/wp-login.php
-/wp-admin/includes/about.php
 /wp-2019.php
-/we.php
 /ova.php
 /ms-themes.php
 /wp-content/json.php
@@ -239,7 +253,6 @@
 /cgi-bin/install.php
 /wp-includes/blocks/comments/index.php
 /wp-includes/sitemaps/about.php
-/files.php
 /wp-files.php
 /customize.php
 /wp-includes/blocks/autoload_classmap.php
@@ -257,7 +270,6 @@
 /wp-includes/js/jcrop/Jcrop.php
 /db.php
 /wp-content/plugins/view-more/ioxi.php
-/ioxi-o.php
 /cgi-bin/wp-login.php
 /lufix.php
 /wolf-shell.php
