@@ -23,7 +23,6 @@
 /goods.php
 /admin.php
 /wp-admin/ateprivacy-policy-guide.php
-/upload.php
 /tinyfilemanager/tinyfilemanager.php
 /wp-content/plugins/pwnd/pwnd.php
 /wp-content/plugins/zgbrarc/cong.php
