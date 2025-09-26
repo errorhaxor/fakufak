@@ -307,7 +307,6 @@
 /ab.php
 /12.php
 /wp-admin/function.php
-/wp-content/themes/sketch/404.php
 /menu.php
 /wp-admin/js/privacy-tools.min.php
 /wp-includes/wp-load.php
