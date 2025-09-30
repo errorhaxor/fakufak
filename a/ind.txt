@@ -3,6 +3,12 @@
 /files/
 /wp-content/themes/
 /assets/
+/joomla/administrator/
+/web/administrator/
+/site/administrator/
+/cms/administrator/
+/portal/administrator/
+/administrator/
 /wp-includes/css/dist/list-reusable-blocks/
 /wp-content/uploads/elementor_uploads/2025/03/
 /wp-includes/PHPMailer/
