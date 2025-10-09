@@ -11,6 +11,7 @@
 /about.php
 /asasx.php
 /tinyfilemanager.php
+/1975.php
 /wp-content/wp-conflg.php
 /dropdown.php
 /elp.php
