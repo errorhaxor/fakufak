@@ -11,6 +11,7 @@ Add Directory :
 <title>Na}{</title>
 N4ST4R_ID
 <title>Shell</title>
+X7ROOT File Manager
 title:"UnShell"
 Symlink Get Config 403
 <th><center>Owner</center></th>
