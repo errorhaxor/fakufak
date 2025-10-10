@@ -8,6 +8,8 @@ drwxr--r-x
 Add Directory :
 <title>Priv8</title>
 <title>PHP Shell</title>
+<title>Na}{</title>
+N4ST4R_ID
 <title>Shell</title>
 title:"UnShell"
 Symlink Get Config 403
