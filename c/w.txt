@@ -6,6 +6,7 @@ X-Sec Shell V.3
 drwxr--r-x
 Add Directory :
 <button type="submit">Run Command</button>
+<title>PHP Shell</title>
 <title>Priv8</title>
 <title>Shell</title>
 <th><center>Owner</center></th>
