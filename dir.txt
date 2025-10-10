@@ -3,6 +3,7 @@ drwx--x--x
 Uname:
 Simple File Manage Design by index.php
 X-Sec Shell V.3
+<button type="submit">Run Command</button>
 drwxr--r-x
 Add Directory :
 <title>Priv8</title>
