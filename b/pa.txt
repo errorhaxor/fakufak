@@ -1,4 +1,4 @@
-/wpc.php?p=
+/wpc.php
 /manager.php
 /chosen.php
 /autoload_classmap.php
