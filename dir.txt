@@ -7,6 +7,7 @@ X-Sec Shell V.3
 drwxr--r-x
 Add Directory :
 <title>Priv8</title>
+<title>PHP Shell</title>
 <title>Shell</title>
 title:"UnShell"
 Symlink Get Config 403
