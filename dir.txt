@@ -110,8 +110,9 @@ Modified By #No_Identity
 Lambo [Beta]
 [ Home Shell ]
 Backdoor Destroyer
-nopebee7 [@] skullxploit // ✅ fixed: was just "skullxploit"
-type="submit" name="upload">Upload // ✅ no stray { or }
+nopebee7 
+[@] skullxploit
+type="submit" name="upload">Upload
 AnonSec Shell
 0x5a455553.github.io/MARIJUANA/icon.png
 <input type="file" name="upload">
@@ -199,7 +200,7 @@ WHY MINI SHELL
 <input type="submit" name='watching'>
 MINIShel
 dead1975
-© BDKR28 // ✅ real ©
+© BDKR28
 CREATE RDP
 c99madshell
 deadcode1975
