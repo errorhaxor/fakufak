@@ -21,7 +21,6 @@ wp-content/
 filemanager.php
 admin/
 wp-includes/speculative8.php
-assets/images/selam.php
 item.php
 3PJcpMFsD8B.php
 1.php
