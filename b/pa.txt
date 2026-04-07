@@ -1,4 +1,5 @@
 inputs.php
+modules/mod_simplefileuploadv1.3/elements/udd.php
 .well-known/core.php
 wp-content/users.php
 wp-content/wp-activate.php
@@ -13,6 +14,7 @@ system_core.php
 rip.php
 wp-content/uploads/admin.php
 wp-content/plugins/pwnd/pwnd.php
+wp-content/plugins/pwnd-1/pwnd.php
 admin.php
 upload/zczv.php
 wp-content/
@@ -238,7 +240,6 @@ wp-includes/rest-api/fields/
 wp-content/updraft/emptydir/
 chosen.php
 wp-includes/theme-compat/images/
-wp-content/plugins/fix/up.php
 wp-content/themes/twentytwenty/assets/fonts/inter/
 dropdown.php
 wp-content/uploads/2025/
@@ -417,7 +418,7 @@ images/core.php
 language/overrides/system.php
 administrator/cache/core.php
 components/com_media/controller.php
-templates/[template]/error.php
+templates/template/error.php
 administrator/modules/mod_login/core.php
 plugins/user/profile/core.php
 configuration.php
